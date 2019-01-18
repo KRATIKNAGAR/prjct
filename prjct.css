@@ -1,0 +1,13 @@
+body{
+	background-image: url(prjct.jpg	);
+	background-size: cover;
+}
+
+form{
+	vertical-align: all;
+	text-align: center;
+}
+.center{
+	 padding: 200px 0;
+    text-align: center;
+}
